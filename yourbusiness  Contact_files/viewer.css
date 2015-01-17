@@ -1,0 +1,363 @@
+html {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+body {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+div {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+span {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+applet {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+object {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+iframe {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+h1 {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+h2 {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+h3 {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+h4 {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+h5 {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+h6 {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+p {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+blockquote {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+pre {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+a {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+abbr {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+acronym {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+address {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+big {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+cite {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+code {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+del {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+dfn {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+em {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+font {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+img {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+ins {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+kbd {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+q {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+s {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+samp {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+small {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+strike {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+strong {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+sub {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+sup {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+tt {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+var {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+b {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+u {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+i {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+center {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+dl {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+dt {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+dd {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+ol {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+ul {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+li {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+fieldset {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+form {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+label {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+legend {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+table {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+caption {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+tbody {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+tfoot {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+thead {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+tr {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+th {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+td {
+	background: none; margin: 0px; padding: 0px; outline: 0px; border: 0px currentColor; border-image: none; vertical-align: baseline;
+}
+body {
+	font-family: Arial, Helvetica, sans-serif; font-size: 10px;
+}
+textarea {
+	font-family: Helvetica, Arial, sans-serif; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+input {
+	font-family: Helvetica, Arial, sans-serif; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+select {
+	font-family: Helvetica, Arial, sans-serif; box-sizing: border-box; -webkit-box-sizing: border-box; -moz-box-sizing: border-box;
+}
+ol {
+	list-style: none;
+}
+ul {
+	list-style: none;
+}
+blockquote {
+	quotes: none;
+}
+q {
+	quotes: none;
+}
+:focus {
+	outline: 0px;
+}
+ins {
+	text-decoration: none;
+}
+del {
+	text-decoration: line-through;
+}
+table {
+	border-collapse: collapse; border-spacing: 0;
+}
+a {
+	text-decoration: none; cursor: pointer;
+}
+html {
+	height: 100%;
+}
+body {
+	height: 100%;
+}
+html.device-mobile-optimized {
+	-ms-overflow-x: hidden;
+}
+body {
+	-ms-overflow-x: auto; -ms-overflow-y: scroll;
+}
+body.device-mobile-optimized {
+	-ms-overflow-x: hidden; -ms-overflow-y: scroll;
+}
+body.device-mobile-optimized > * {
+	max-width: 100% !important;
+}
+body.device-mobile-optimized .SITE_ROOT {
+	-ms-overflow-x: hidden; -ms-overflow-y: auto;
+}
+body.device-mobile-non-optimized .SITE_ROOT {
+	-ms-overflow-x: hidden; -ms-overflow-y: auto;
+}
+body.fullScreenMode.device-mobile-non-optimized .SITE_ROOT {
+	visibility: hidden;
+}
+body.fullScreenMode.device-mobile-non-optimized #SITE_BACKGROUND {
+	visibility: hidden;
+}
+body.fullScreenMode.device-mobile-non-optimized {
+	background-color: rgb(95, 99, 96);
+}
+body.fullScreenMode {
+	-ms-overflow-x: hidden !important; -ms-overflow-y: hidden !important;
+}
+body.fullScreenMode.device-mobile-optimized {
+	-ms-overflow-x: hidden !important; -ms-overflow-y: auto !important;
+}
+body.fullScreenMode.device-mobile-optimized .SITE_ROOT {
+	-ms-overflow-x: hidden !important; -ms-overflow-y: hidden !important;
+}
+body.fullScreenMode.device-mobile-optimized #SITE_STRUCTURE {
+	height: auto !important; -ms-overflow-x: hidden !important; -ms-overflow-y: hidden !important;
+}
+body.fullScreenMode.device-mobile-optimized #SITE_BACKGROUND {
+	height: auto !important;
+}
+body[contenteditable] {
+	-ms-overflow-x: auto; -ms-overflow-y: auto;
+}
+.ltr.wixapps-less-spacers-align {
+	text-align: left;
+}
+.center.wixapps-less-spacers-align {
+	text-align: center;
+}
+.rtl.wixapps-less-spacers-align {
+	text-align: right;
+}
+.wixapps-less-spacers-align > div {
+	display: inline-block !important;
+}
+.wixapps-less-spacers-align > a {
+	display: inline-block !important;
+}
+.SITE_ROOT {
+	margin: 0px auto; position: relative; min-height: 100%;
+}
+.bold {
+	font-weight: bold;
+}
+.italic {
+	font-style: italic;
+}
+.underline {
+	text-decoration: underline;
+}
+.lineThrough {
+	text-decoration: line-through;
+}
+.singleLineText {
+	white-space: nowrap; -ms-text-overflow: ellipsis;
+}
+.alignLeft {
+	text-align: left;
+}
+.alignCenter {
+	text-align: center;
+}
+.alignRight {
+	text-align: right;
+}
+.alignJustify {
+	text-align: justify;
+}
+ul.font_100 {
+	font: 10px/normal "Arial, Helvetica, sans-serif", serif; margin: 0px; color: rgb(8, 8, 8); letter-spacing: normal; text-decoration: none;
+}
+ol.font_100 {
+	font: 10px/normal "Arial, Helvetica, sans-serif", serif; margin: 0px; color: rgb(8, 8, 8); letter-spacing: normal; text-decoration: none;
+}
+.font_100 li {
+	margin-bottom: 12px;
+}
+.font_100 li {
+	margin-bottom: 12px;
+}
+.flex_display {
+	display: flex;
+}
+.flex_vbox {
+	padding-top: 0.01em; padding-bottom: 0.01em; box-sizing: border-box;
+}
+a.wixAppsLink img {
+	cursor: pointer;
+}
+.singleLine {
+	overflow: hidden; display: block; white-space: nowrap; -ms-word-wrap: normal; -ms-text-overflow: ellipsis;
+}
+[data-z-counter] {
+	z-index: 0;
+}
+[data-z-counter='0'] {
+	z-index: auto;
+}
+letter {
+	display: inline-block; position: relative;
+}
+word {
+	display: inline-block; white-space: nowrap;
+}
+word.space {
+	display: inline;
+}
+letter.space {
+	display: inline;
+}
